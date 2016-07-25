@@ -21,3 +21,8 @@ Nick Foster. Future mundane.
 
 Foam - prehursal
 
+
+Practice:
+* https://chrome.google.com/webstore/detail/rose-colored-window/djlhhopgmokkhnljjlkclknddoododoc
+* 
+
