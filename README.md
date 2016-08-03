@@ -5,9 +5,7 @@ Summer School, 2016
 [School for Poetic Computation](http://sfpc.io)  
 August 15th and 16th, 6-9pm
 
-How do governments and institutions describe their goals and activities? And what if you could rescript these? In this class we will develop online interventions to rethink institutional agendas and critique mainstream culture. 
-
-We will look at the history of culture jamming and apply speculative design strategies, using the contemporary web as medium. Taking delight in the banal, we will experiment with basic web scraping, text manipulation and browser add-ons to provide a glimpse of the world we’d like to see.
+How do governments and institutions describe their goals and administer them? And what if you could rescript these processes? In this class we will develop online interventions to rethink institutional agendas and critique mainstream culture. We will look at the history of culture jamming and apply speculative design strategies, using the contemporary web as medium. Taking delight in the banal, we will experiment with basic web scraping, text manipulation and browser add-ons to provide a glimpse of the world we’d like to see.
 
 ##Schedule
 
