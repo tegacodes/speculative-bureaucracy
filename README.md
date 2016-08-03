@@ -46,6 +46,7 @@ We will look at the history of culture jamming and apply speculative design stra
 ###Readings
 ***Recommended***
 
+* Guy Debord & Gil J. Wolman, [A user's guide to Détournement](http://www.cddc.vt.edu/sionline/presitu/usersguide.html)
 * Anthoney Dunne, [Hertzian Tales, Chapter 5, Real Fiction](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwi5osvi_6XOAhXIGj4KHSR2BxMQFggcMAA&url=http%3A%2F%2Fbscw.wineme.fb5.uni-siegen.de%2Fpub%2Fbscw.cgi%2Fd807744%2F__Hertzian_Tales__Electronic_Products__Aesthetic_Experience__and_Critical_Design.pdf&usg=AFQjCNE2DwbM873vh22tPfgTUDLHNOj_lQ&sig2=fjvShJ9VxjVcZpOmKJRslg)
 
 ***Supplementary***
@@ -54,7 +55,7 @@ We will look at the history of culture jamming and apply speculative design stra
 * Gene Sharp, [Politics of non-violent action](https://en.wikipedia.org/wiki/The_Politics_of_Nonviolent_Action)
 * Methods of [non-violent action](http://www.mapm.org/documents/198_nonviolent_methods_2007.pdf)
 
-***Tangental but Inspiring Talks***
+***Tangental but Interesting Talks***
 
 * Cory Doctorov keynote [from this recent conference](https://www.media.mit.edu/video/view/forbiddenresearch-2016-07-21-1)
 * Natalie Kane [Mindful Cyborg Podcast](http://www.mindfulcyborgs.com/shows/2016/6/22/episode-76-the-magic-of-means-well-technology-with-natalie-kane)
