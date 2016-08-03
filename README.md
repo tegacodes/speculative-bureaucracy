@@ -37,6 +37,7 @@ How do governments and institutions describe their goals and administer them? An
  [GirlsVsGit](https://github.com/wheresaddie/girlsvsgit)
 * Sam Lavigne [Transform any text into a patent application](http://lav.io/2014/05/transform-any-text-into-a-patent-application/)
 * Katie Rose Pipkin [Rose Colored Window](https://chrome.google.com/webstore/detail/rose-colored-window/djlhhopgmokkhnljjlkclknddoododoc)
+* [The NSK State](http://www.passport.nsk.si/en/)
  
 
 ##Readings
@@ -46,6 +47,7 @@ How do governments and institutions describe their goals and administer them? An
 
 * Guy Debord & Gil J. Wolman, [A user's guide to Détournement](http://www.cddc.vt.edu/sionline/presitu/usersguide.html)
 * Anthoney Dunne, [Hertzian Tales, Chapter 5, Real Fiction](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwi5osvi_6XOAhXIGj4KHSR2BxMQFggcMAA&url=http%3A%2F%2Fbscw.wineme.fb5.uni-siegen.de%2Fpub%2Fbscw.cgi%2Fd807744%2F__Hertzian_Tales__Electronic_Products__Aesthetic_Experience__and_Critical_Design.pdf&usg=AFQjCNE2DwbM873vh22tPfgTUDLHNOj_lQ&sig2=fjvShJ9VxjVcZpOmKJRslg)
+* Pil and Galia Kollectiv, [Some Notes on Art and Bureaucracy](http://www.kollectiv.co.uk/Bureaucracy.html)
 
 ***Supplementary***
 
