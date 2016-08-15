@@ -54,6 +54,7 @@ How do governments and institutions describe their goals and administer them? An
 ***Supplementary***
 
 * Ken Goldsmith, 2011, [Uncreative Writing, Chapter 2, Language as material.](https://monoskop.org/media/text/goldsmith_2011_uncreative_writing/)
+* Wendy Hui Kyong Chun, 2011, Programmed Visons, Computers that Roar (p55-58).
 * Lisa Gitelman Paper Knowledge, [Chapter 4, Near Print and Beyond Paper / Knowing by *.pdf, p111](https://www.dropbox.com/s/b4rcd6v9xheyj7a/lisa-gitelman-paper-knowledge-toward-a-media-history-of-documents.pdf?dl=0). Discussion of the PDF as format and form. 
 * Gene Sharp, [Politics of non-violent action](https://en.wikipedia.org/wiki/The_Politics_of_Nonviolent_Action)
 * Methods of [non-violent action](http://www.mapm.org/documents/198_nonviolent_methods_2007.pdf)
@@ -67,30 +68,30 @@ How do governments and institutions describe their goals and administer them? An
 
 ***Basics***
 
-* Sublime Text 2
+* [Sublime Text 2](http://www.sublimetext.com/2)
 * [Intro to the command line](http://cli.learncodethehardway.org/book/)
-* Intro to github
-* Intro to web
+* [Intro to github](https://github.com/tegacodes/speculative-bureaucracy/blob/master/extensionTutorial.md)
+* [Intro to wget](http://www.thegeekstuff.com/2009/09/the-ultimate-wget-download-guide-with-15-awesome-examples)
 * <a href="http://p5js.org/tutorials/debugging/">Field guide to debugging. </a>
 
 
 ***Javascript***
 
-Books
+*Books*
 
 * [Eloquent Javascript](http://eloquentjavascript.net)
 * [You Don't Know JS Series](https://github.com/getify/You-Dont-Know-JS) (free ebooks)
 * Douglas Crockford, [Javascript the Good Parts.](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf) This text is for more advanced learners.
 
-Related JS Courses
+*Related JS Courses*
 
 * For programming text projects in javascript see Programming from A to Z by Shiffman: [http://shiffman.net/teaching/a2z/week1/](http://shiffman.net/teaching/a2z/week1/)
 
-Chrome Extensions
+*Chrome Extensions*
 
 * For some more examples see [Lauren Mccarthy's repo here.](https://github.com/lmccart/SocialHacking/tree/master/ChromeExtensionExamples)
 
-From Google's documentation:
+*More on extensions from Google's documentation:*
 
 * [Getting Started](http://developer.chrome.com/extensions/getstarted.html)
 * [Chrome extension overview](http://developer.chrome.com/extensions/overview.html)
