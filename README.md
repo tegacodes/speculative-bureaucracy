@@ -15,7 +15,13 @@ How do governments and institutions describe their goals and administer them? An
 * Lecture: Histories of bureaucracy and speculation
 * Lab 1: Web and JS basics, wget, find and replace
 * Group concept exercise
-* Homework exercise/studio
+* Homework:	
+	* Make a critical css intervention, editing in the browser or otherwise. Take a screen shot, and bring to class.
+	* Make a content intervention on a website of your choice, either editing the html, using a tool like clonezone or otherwise. Take a screenshot and come ready to discuss.
+	* Bring in one critical/creative browser extension you've found in your own personal research. 
+	* Consider a concept for a simple extension.
+
+
 
 **Day 2**
 
@@ -31,7 +37,7 @@ How do governments and institutions describe their goals and administer them? An
 * [Clone Zone](http://clonezone.link/)
 * Julian Oliver and Daniil Vasiliev [NewsTweak](https://julianoliver.com/output/newstweek)
 * Allison Burtch [Internet Illuminator](http://www.allisonburtch.net/illuminator/)
-* Dan Phiffer and Mushon Zer-Aviv, [Shiftspace](https://en.wikipedia.org/wiki/ShiftSpace)
+* Dan Phiffer and Mushon Zer-Aviv, [Shiftspace](http://turbulence.org/project/the-shiftspace-commissions-program-2/)
 * Amy Balkin [Public Smog](http://www.publicsmog.org/)
 * Sara Hendren [Accessible Icon](http://accessibleicon.org/)
 * Addie Wagenknecht
