@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "Images",
+  "description": "Replace page CSS",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "bee.png"
+  },
+  "content_scripts": [
+    {
+     "matches": ["http://international.nytimes.com/*", "http://www.nytimes.com/*"],
+      "css": ["mystyles.css"],
+      "js": ["myscript.js"]
+    }
+  ]
+}

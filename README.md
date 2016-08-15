@@ -27,6 +27,7 @@ How do governments and institutions describe their goals and administer them? An
 ##References
 * [New York Times Special Edition](http://nytimes-se.com/)
 * [Intergovernmental Panel on Capitalism](http://intergovernmentalpaneloncapitalism.org/)
+* Steve Lambert, [Add art](http://visitsteve.com/made/add-art-art-replaces-ads/)
 * [Clone Zone](http://clonezone.link/)
 * Julian Oliver and Daniil Vasiliev [NewsTweak](https://julianoliver.com/output/newstweek)
 * Allison Burtch [Internet Illuminator](http://www.allisonburtch.net/illuminator/)
@@ -38,6 +39,7 @@ How do governments and institutions describe their goals and administer them? An
 * Sam Lavigne [Transform any text into a patent application](http://lav.io/2014/05/transform-any-text-into-a-patent-application/)
 * Katie Rose Pipkin [Rose Colored Window](https://chrome.google.com/webstore/detail/rose-colored-window/djlhhopgmokkhnljjlkclknddoododoc)
 * [The NSK State](http://www.passport.nsk.si/en/)
+* Matt Siber, [The Untitled Project](http://siberart.com/projects/untitled-project/north-america/)
  
 
 ##Readings
@@ -51,6 +53,7 @@ How do governments and institutions describe their goals and administer them? An
 
 ***Supplementary***
 
+* Ken Goldsmith, 2011, [Uncreative Writing, Chapter 2, Language as material.](https://monoskop.org/media/text/goldsmith_2011_uncreative_writing/)
 * Lisa Gitelman Paper Knowledge, [Chapter 4, Near Print and Beyond Paper / Knowing by *.pdf, p111](https://www.dropbox.com/s/b4rcd6v9xheyj7a/lisa-gitelman-paper-knowledge-toward-a-media-history-of-documents.pdf?dl=0). Discussion of the PDF as format and form. 
 * Gene Sharp, [Politics of non-violent action](https://en.wikipedia.org/wiki/The_Politics_of_Nonviolent_Action)
 * Methods of [non-violent action](http://www.mapm.org/documents/198_nonviolent_methods_2007.pdf)
@@ -59,7 +62,6 @@ How do governments and institutions describe their goals and administer them? An
 
 * Cory Doctorov keynote [from this recent conference](https://www.media.mit.edu/video/view/forbiddenresearch-2016-07-21-1)
 * Natalie Kane [Mindful Cyborg Podcast](http://www.mindfulcyborgs.com/shows/2016/6/22/episode-76-the-magic-of-means-well-technology-with-natalie-kane)
-* Scott Smith [Monthly Talk](https://www.youtube.com/watch?v=QqkMACuu5mk)
 
 ###Tech Resources
 
@@ -85,6 +87,10 @@ Related JS Courses
 * For programming text projects in javascript see Programming from A to Z by Shiffman: [http://shiffman.net/teaching/a2z/week1/](http://shiffman.net/teaching/a2z/week1/)
 
 Chrome Extensions
+
+* For some more examples see [Lauren Mccarthy's repo here.](https://github.com/lmccart/SocialHacking/tree/master/ChromeExtensionExamples)
+
+From Google's documentation:
 
 * [Getting Started](http://developer.chrome.com/extensions/getstarted.html)
 * [Chrome extension overview](http://developer.chrome.com/extensions/overview.html)

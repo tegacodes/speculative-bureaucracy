@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Content script popup",
+  "description": "Pop up a message on some pages",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "bee.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.facebook.com/*"],
+      "js": ["myScript.js"]
+    }
+  ]
+}
