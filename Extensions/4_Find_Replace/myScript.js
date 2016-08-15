@@ -1,7 +1,7 @@
 document.body.innerHTML = document.body.innerHTML.replace(new RegExp("climate change", "g"), "capitalism");
 document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Climate change", "g"), "Capitalism");
 
-//NOTES:
+//NOTES AND LINKS ON THIS:
 //for case insensitive matching replace g with gi.
 //Regular expressions: http://www.w3schools.com/jsref/jsref_regexp_g.asp
 //Document.body.innerHTML: http://www.w3schools.com/jsref/prop_doc_body.asp

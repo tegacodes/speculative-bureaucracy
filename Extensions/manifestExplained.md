@@ -5,6 +5,7 @@ For all manifest file fields for Extensions, see the manifest documentation page
 * JSON validator is here: [http://jsonlint.com/](http://jsonlint.com/)
 * You cannot include comments as I have here.
 
+
 {
   "manifest_version": 2, //need to use version 2
 
@@ -28,5 +29,12 @@ For all manifest file fields for Extensions, see the manifest documentation page
     "tabs",
     "activeTab",
     "https://ajax.googleapis.com/"
+  ]
+  "content_scripts": [
+    {                   //adds javascript to the page. Changes content of page.
+      "matches": ["https://www.facebook.com/*"], //define what page you want this to happen on. 
+                                                  // for all websites use "<all_urls>"
+      "js": ["myScript.js"]  //link to script you want to run!!
+    }
   ]
 }

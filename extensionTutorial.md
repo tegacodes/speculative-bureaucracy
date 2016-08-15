@@ -5,7 +5,7 @@
 ####3 types of scripts
 
 
-* Extension environment (browser action) scripts. Run in pop up box when clicking on icon. This comes from a separate html doc. (popup.html in basic example)
+* Browser action (extension environment) scripts. Runs in pop up box when clicking on icon. This comes from a separate html doc. (popup.html in basic example). Can run p5js sketches here.
 * Content scripts run in the html of the webpage. The scripts are executed within the context of the page (user page environment). 
 * Background scripts. Run in an isolated environment, cannot access the dom but can access google apis and web apis.
 
@@ -18,11 +18,12 @@
 ###Example 2: Browser Action + p5
 
 * This runs p5js in the popup window that appears when the icon is clicked.
+* The popup.html is set up like a normal p5js file.
 
 
 ###Example 3: Content Script
 
-* See content_scripts part in manifest file. Note there is no permissions section for now.
+* See the content_scripts part in manifest file. Note there is no permissions section for now.
 * In this section add matches -> this defines what pages something is to happen on. So changing this to: 
 ```["http://*/*", "https://*/*"] ```  
 matches every http and https domain.
@@ -45,11 +46,11 @@ or replace with to make this message pop up.
 ###Example 4: CSS
 
 * Modifies the CSS of the page. Need to add in ```!important ``` to override existing css.  
-* Check manifest file to see which page this will work on
+* Set the manifest file to define which page this will work on.
 
 ###Example 5: Find and Replace
 
-* Simple find and replace example.
+* Simple find and replace example using a content script and a basic regex. 
 
 ###Example 6: Background scripts
 
@@ -58,9 +59,6 @@ or replace with to make this message pop up.
 * You cannot access the dom directly. But you can combine the background script and the content script and pass messages between them. This gives you access to the chrome API.
 * [Chrome APIS](https://developer.chrome.com/extensions/api_index)
 * [Web APIS](https://developer.chrome.com/extensions/api_other)
-
-
-
 
 
 
