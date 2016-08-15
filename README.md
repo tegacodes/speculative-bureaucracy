@@ -22,13 +22,14 @@ How do governments and institutions describe their goals and administer them? An
 	* Consider a concept for a simple extension.
 
 
-
 **Day 2**
 
 * Lecture: Creative Strategies. But what does it do?
 * Homework review and discussion
 * Lab 2: Browser add-ons.
 * Project exercise/studio
+
+[Shared notes from class are here.](https://sfpccodesubversions.hackpad.com/Speculative-Bureaucracy-Notes-Mj12X6h7onf)
 
 ##References
 * [New York Times Special Edition](http://nytimes-se.com/)
