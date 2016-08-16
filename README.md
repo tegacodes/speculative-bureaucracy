@@ -87,6 +87,7 @@ How do governments and institutions describe their goals and administer them? An
 *JS Video Resourses*
 
 * Foundataions of Javascript tutorials. If you are totally new to JS. [This is a great set of videos to start with.](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+* Or see the [Code academy tutorials](https://www.codecademy.com/learn/javascript)
 
 *Books*
 

@@ -1,3 +1,4 @@
+//the content script that adds in the p5js sketch.
 // Avoid recursive frame insertion...
 var extensionOrigin = 'chrome-extension://' + chrome.runtime.id;
 if (!location.ancestorOrigins.contains(extensionOrigin)) {

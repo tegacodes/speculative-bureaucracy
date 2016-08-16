@@ -1,16 +1,15 @@
-#Chrome Extension Basics
+#Chrome Extension Example Notes
 
-###From Getting Started tutorial
+####Types:
+Page action: sometimes visible, only runs on some pages: [https://developer.chrome.com/extensions/pageAction](https://developer.chrome.com/extensions/pageAction)
+Browser action: always visible, runs for all pages: [https://developer.chrome.com/extensions/browserAction](https://developer.chrome.com/extensions/browserAction)
 
 ####3 types of scripts
+* Extension environment scripts. This is html that runs in a pop up box when clicking on icon. This comes from a separate html doc. (popup.html in basic example). Can run p5js sketches here.
+* Content scripts run in the html of the webpage. The scripts are executed within the context of the page (user page environment). 
+* Background scripts. Run in an isolated environment, cannot access the dom but can access google apis and web apis.
 
-
-* Browser action (extension environment) scripts. Runs in pop up box when clicking on icon. This comes from a separate html doc. (popup.html in basic example). Can run p5js sketches here.
-* Page action: 
- 	* Content scripts run in the html of the webpage. The scripts are executed within the context of the page (user page environment). 
-	* Background scripts. Run in an isolated environment, cannot access the dom but can access google apis and web apis.
-
-###Example 1: Browser Action
+###Example 1: Browser Action popup.
 
 * Set up a folder where you will be working
 * Create a file called manifest.json. This is the file that holds it all together. 

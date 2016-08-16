@@ -13,11 +13,11 @@ For all manifest file fields for Extensions, see the manifest documentation page
   "description": "This extension shows a Google Image search result for the current page",
   "version": "1.0",
 
-  "browser_action": {  //tells google chrome that when you click on icon, what is the default 
-                        //file to popup. If you change the path of this to an invalid file. 
-                        //it will show you page not found.
-    "default_icon": "bee.png",
-    "default_popup": "popup.html"
+  "browser_action": {  
+    "default_icon": "bee.png",    //set your icon
+    "default_popup": "popup.html" //tells google chrome that when you click on icon, what is the default 
+                                  //file to popup. If you change the path of this to an invalid file. 
+                                  //it will show you page not found.
   },
   "icons": { //you can update the icons here. there are different sized icons used in 
              //different spots
