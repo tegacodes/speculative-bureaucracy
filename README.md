@@ -43,9 +43,9 @@ How do governments and institutions describe their goals and administer them? An
 * Sara Hendren [Accessible Icon](http://accessibleicon.org/)
 * Addie Wagenknecht
  [GirlsVsGit](https://github.com/wheresaddie/girlsvsgit)
+* Joanne Mcneil, [Emotional Labor](http://www.joannemcneil.com/gallery/emotional-labor/)
 * Sam Lavigne [Transform any text into a patent application](http://lav.io/2014/05/transform-any-text-into-a-patent-application/)
 * Katie Rose Pipkin [Rose Colored Window](https://chrome.google.com/webstore/detail/rose-colored-window/djlhhopgmokkhnljjlkclknddoododoc)
-* [The NSK State](http://www.passport.nsk.si/en/)
 * Matt Siber, [The Untitled Project](http://siberart.com/projects/untitled-project/north-america/)
  
 
@@ -56,12 +56,12 @@ How do governments and institutions describe their goals and administer them? An
 
 * Guy Debord & Gil J. Wolman, [A user's guide to Détournement](http://www.cddc.vt.edu/sionline/presitu/usersguide.html)
 * Anthoney Dunne, [Hertzian Tales, Chapter 5, Real Fiction](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwi5osvi_6XOAhXIGj4KHSR2BxMQFggcMAA&url=http%3A%2F%2Fbscw.wineme.fb5.uni-siegen.de%2Fpub%2Fbscw.cgi%2Fd807744%2F__Hertzian_Tales__Electronic_Products__Aesthetic_Experience__and_Critical_Design.pdf&usg=AFQjCNE2DwbM873vh22tPfgTUDLHNOj_lQ&sig2=fjvShJ9VxjVcZpOmKJRslg)
-* Pil and Galia Kollectiv, [Some Notes on Art and Bureaucracy](http://www.kollectiv.co.uk/Bureaucracy.html)
 
 ***Supplementary***
 
 * Ken Goldsmith, 2011, [Uncreative Writing, Chapter 2, Language as material.](https://monoskop.org/media/text/goldsmith_2011_uncreative_writing/)
 * Wendy Hui Kyong Chun, 2011, Programmed Visons, Computers that Roar (p55-58).
+* Pil and Galia Kollectiv, [Some Notes on Art and Bureaucracy](http://www.kollectiv.co.uk/Bureaucracy.html)
 * Lisa Gitelman Paper Knowledge, [Chapter 4, Near Print and Beyond Paper / Knowing by *.pdf, p111](https://www.dropbox.com/s/b4rcd6v9xheyj7a/lisa-gitelman-paper-knowledge-toward-a-media-history-of-documents.pdf?dl=0). Discussion of the PDF as format and form. 
 * Gene Sharp, [Politics of non-violent action](https://en.wikipedia.org/wiki/The_Politics_of_Nonviolent_Action)
 * Methods of [non-violent action](http://www.mapm.org/documents/198_nonviolent_methods_2007.pdf)
@@ -84,15 +84,16 @@ How do governments and institutions describe their goals and administer them? An
 
 ***Javascript***
 
+*JS Video Resourses*
+
+* Foundataions of Javascript tutorials. If you are totally new to JS. [This is a great set of videos to start with.](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+
 *Books*
 
 * [Eloquent Javascript](http://eloquentjavascript.net)
 * [You Don't Know JS Series](https://github.com/getify/You-Dont-Know-JS) (free ebooks)
 * Douglas Crockford, [Javascript the Good Parts.](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf) This text is for more advanced learners.
 
-*Related JS Courses*
-
-* For programming text projects in javascript see Programming from A to Z by Shiffman: [http://shiffman.net/teaching/a2z/week1/](http://shiffman.net/teaching/a2z/week1/)
 
 *Chrome Extensions*
 

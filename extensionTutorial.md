@@ -6,8 +6,9 @@
 
 
 * Browser action (extension environment) scripts. Runs in pop up box when clicking on icon. This comes from a separate html doc. (popup.html in basic example). Can run p5js sketches here.
-* Content scripts run in the html of the webpage. The scripts are executed within the context of the page (user page environment). 
-* Background scripts. Run in an isolated environment, cannot access the dom but can access google apis and web apis.
+* Page action: 
+ 	* Content scripts run in the html of the webpage. The scripts are executed within the context of the page (user page environment). 
+	* Background scripts. Run in an isolated environment, cannot access the dom but can access google apis and web apis.
 
 ###Example 1: Browser Action
 
@@ -24,7 +25,7 @@
 ###Example 3: Content Script
 
 * See the content_scripts part in manifest file. Note there is no permissions section for now.
-* In this section add matches -> this defines what pages something is to happen on. So changing this to: 
+* For a content script we need matches -> this defines what pages something is to happen on. So changing this to: 
 ```["http://*/*", "https://*/*"] ```  
 matches every http and https domain.
 or changing to:
