@@ -99,6 +99,7 @@ How do governments and institutions describe their goals and administer them? An
 *Chrome Extensions*
 
 * For some more examples see [Lauren Mccarthy's repo here.](https://github.com/lmccart/SocialHacking/tree/master/ChromeExtensionExamples)
+* To autogenerate a browser extension template see [EXTENSIONIZER!!](http://extensionizr.com/!#{"modules":["hidden-mode","with-bg","with-persistent-bg","no-options","no-override"],"boolean_perms":[],"match_ptrns":[]})
 
 *More on extensions from Google's documentation:*
 
