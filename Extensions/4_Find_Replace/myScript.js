@@ -1,6 +1,6 @@
-document.body.innerHTML = document.body.innerHTML.replace(new RegExp("climate change", "g"), "capitalism");
-document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Climate change", "g"), "Capitalism");
-document.body.innerHTML = setInterval(document.body.innerHTML.replace(new RegExp("Climate Change", "g"), "Capitalism"), 500);
+// document.body.innerHTML = document.body.innerHTML.replace(new RegExp("climate change", "g"), "capitalism");
+// document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Climate change", "g"), "Capitalism");
+// document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Climate Change", "g"), "Capitalism");
 
 
 //Note. You will see that this works on some things but not everything in your browser. If you want to 
@@ -11,32 +11,32 @@ document.body.innerHTML = setInterval(document.body.innerHTML.replace(new RegExp
 //Comment out the code above. And uncomment the code below. 
 
 
-// function getTextNodes() {
-//  // get all html elements
-//  var elements = document.querySelectorAll("body, body *");
-//  var results = [];
+function getTextNodes() {
+ // get all html elements
+ var elements = document.querySelectorAll("body, body *");
+ var results = [];
 
 
-//  //loop through the elements children nodes
-//  for (var i = 0; i < elements.length; i++) {
-//    var child = elements[i].childNodes[0];
+ //loop through the elements children nodes
+ for (var i = 0; i < elements.length; i++) {
+   var child = elements[i].childNodes[0];
 
-//    // grab everything that's a textNode (nodeType is "3")
-//    if (elements[i].hasChildNodes() && child.nodeType == 3) {
-//      results.push(child);
-//    }
-//  }
+   // grab everything that's a textNode (nodeType is "3")
+   if (elements[i].hasChildNodes() && child.nodeType == 3) {
+     results.push(child);
+   }
+ }
 
-//  return results;
-// }
+ return results;
+}
 
-// setInterval(function() {
-//  var textnodes = getTextNodes();
-//  for (var i = 0; i < textnodes.length; i++) {
-//    var text = textnodes[i].nodeValue;
-//    textnodes[i].nodeValue = text.replace(/climate change/gi, 'capitalism');
-//  }
-// }, 500);
+setInterval(function() {
+ var textnodes = getTextNodes();
+ for (var i = 0; i < textnodes.length; i++) {
+   var text = textnodes[i].nodeValue;
+   textnodes[i].nodeValue = text.replace(/teddy/gi, "teddy bear");
+ }
+}, 500);
 
 
 //NOTES AND LINKS ON THIS:

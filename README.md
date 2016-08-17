@@ -55,13 +55,14 @@ How do governments and institutions describe their goals and administer them? An
 ***Recommended***
 
 * Guy Debord & Gil J. Wolman, [A user's guide to Détournement](http://www.cddc.vt.edu/sionline/presitu/usersguide.html)
-* Anthoney Dunne, [Hertzian Tales, Chapter 5, Real Fiction](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwi5osvi_6XOAhXIGj4KHSR2BxMQFggcMAA&url=http%3A%2F%2Fbscw.wineme.fb5.uni-siegen.de%2Fpub%2Fbscw.cgi%2Fd807744%2F__Hertzian_Tales__Electronic_Products__Aesthetic_Experience__and_Critical_Design.pdf&usg=AFQjCNE2DwbM873vh22tPfgTUDLHNOj_lQ&sig2=fjvShJ9VxjVcZpOmKJRslg)
+* Pil and Galia Kollectiv, [Some Notes on Art and Bureaucracy](http://www.kollectiv.co.uk/Bureaucracy.html)
+
 
 ***Supplementary***
 
 * Ken Goldsmith, 2011, [Uncreative Writing, Chapter 2, Language as material.](https://monoskop.org/media/text/goldsmith_2011_uncreative_writing/)
 * Wendy Hui Kyong Chun, 2011, Programmed Visons, Computers that Roar (p55-58).
-* Pil and Galia Kollectiv, [Some Notes on Art and Bureaucracy](http://www.kollectiv.co.uk/Bureaucracy.html)
+* Anthoney Dunne, [Hertzian Tales, Chapter 5, Real Fiction](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwi5osvi_6XOAhXIGj4KHSR2BxMQFggcMAA&url=http%3A%2F%2Fbscw.wineme.fb5.uni-siegen.de%2Fpub%2Fbscw.cgi%2Fd807744%2F__Hertzian_Tales__Electronic_Products__Aesthetic_Experience__and_Critical_Design.pdf&usg=AFQjCNE2DwbM873vh22tPfgTUDLHNOj_lQ&sig2=fjvShJ9VxjVcZpOmKJRslg)
 * Lisa Gitelman Paper Knowledge, [Chapter 4, Near Print and Beyond Paper / Knowing by *.pdf, p111](https://www.dropbox.com/s/b4rcd6v9xheyj7a/lisa-gitelman-paper-knowledge-toward-a-media-history-of-documents.pdf?dl=0). Discussion of the PDF as format and form. 
 * Gene Sharp, [Politics of non-violent action](https://en.wikipedia.org/wiki/The_Politics_of_Nonviolent_Action)
 * Methods of [non-violent action](http://www.mapm.org/documents/198_nonviolent_methods_2007.pdf)
