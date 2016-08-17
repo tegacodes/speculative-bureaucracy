@@ -36,6 +36,8 @@ How do governments and institutions describe their goals and administer them? An
 * [Intergovernmental Panel on Capitalism](http://intergovernmentalpaneloncapitalism.org/)
 * Steve Lambert, [Add art](http://visitsteve.com/made/add-art-art-replaces-ads/)
 * [Clone Zone](http://clonezone.link/)
+* Joanne Mcneil, [Emotional Labor](http://www.joannemcneil.com/gallery/emotional-labor/)
+* [BookIndy, Browse Amazon, Buy Independent addon](https://chrome.google.com/webstore/detail/bookindy-%E2%80%93-browse-amazon/pkojccpfacognnfgbafojnnlkeifcmhe?hl=en)
 * Julian Oliver and Daniil Vasiliev [NewsTweak](https://julianoliver.com/output/newstweek)
 * Allison Burtch [Internet Illuminator](http://www.allisonburtch.net/illuminator/)
 * Dan Phiffer and Mushon Zer-Aviv, [Shiftspace](http://turbulence.org/project/the-shiftspace-commissions-program-2/)
@@ -43,10 +45,10 @@ How do governments and institutions describe their goals and administer them? An
 * Sara Hendren [Accessible Icon](http://accessibleicon.org/)
 * Addie Wagenknecht
  [GirlsVsGit](https://github.com/wheresaddie/girlsvsgit)
-* Joanne Mcneil, [Emotional Labor](http://www.joannemcneil.com/gallery/emotional-labor/)
 * Sam Lavigne [Transform any text into a patent application](http://lav.io/2014/05/transform-any-text-into-a-patent-application/)
 * Katie Rose Pipkin [Rose Colored Window](https://chrome.google.com/webstore/detail/rose-colored-window/djlhhopgmokkhnljjlkclknddoododoc)
 * Matt Siber, [The Untitled Project](http://siberart.com/projects/untitled-project/north-america/)
+* Paolo Pedercini, [TweetFired: a reminder](https://chrome.google.com/webstore/detail/tweetfired-a-reminder/epibnkppgfcofjibkkanefdpleabdmoa)
  
 
 ##Readings
@@ -97,7 +99,7 @@ How do governments and institutions describe their goals and administer them? An
 * Douglas Crockford, [Javascript the Good Parts.](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf) This text is for more advanced learners.
 
 
-*Chrome Extensions*
+###Chrome Extensions*
 
 * For some more examples see [Lauren Mccarthy's repo here.](https://github.com/lmccart/SocialHacking/tree/master/ChromeExtensionExamples)
 * To autogenerate a browser extension template see [EXTENSIONIZER!!](http://extensionizr.com/!#{"modules":["hidden-mode","with-bg","with-persistent-bg","no-options","no-override"],"boolean_perms":[],"match_ptrns":[]})
@@ -114,3 +116,5 @@ How do governments and institutions describe their goals and administer them? An
 * [Gmail API library](https://github.com/KartikTalwar/gmail.js)
 * [Publishing your extension](https://developers.google.com/chrome/web-store/docs/publish)
 * [Chrome extension notes and examples](http://shiffman.github.io/A2Z-F15/week10/notes.html), Dan Shiffman
+
+Thanks Lauren McCarthy, Cory Forsyth, Dan Shiffman, Sam Lavigne and Melanie Hoff for resources/help/prior work in this area.
