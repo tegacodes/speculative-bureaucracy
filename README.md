@@ -19,13 +19,13 @@ How do governments and institutions describe their goals and administer them? An
 	* Make a critical css intervention, editing in the browser or otherwise. Take a screen shot, and bring to class.
 	* Make a content intervention on a website of your choice, either editing the html, using a tool like clonezone or otherwise. Take a screenshot and come ready to discuss.
 	* Bring in one critical/creative browser extension you've found in your own personal research. 
-	* Consider a concept for a simple extension.
+	* Use these experiments to consider a concept for a simple extension.
 
 
 **Day 2**
 
-* Lecture: Creative Strategies. But what does it do?
 * Homework review and discussion
+* Lecture: Creative Strategies. But what does it do?
 * Lab 2: Browser add-ons.
 * Project exercise/studio
 
@@ -62,7 +62,7 @@ How do governments and institutions describe their goals and administer them? An
 
 ***Supplementary***
 
-* Ken Goldsmith, 2011, [Uncreative Writing, Chapter 2, Language as material.](https://monoskop.org/media/text/goldsmith_2011_uncreative_writing/)
+* Ken Goldsmith, 2011, [Uncreative Writing, Chapter 2, Language as material.](https://monoskop.org/media/text/goldsmith_2011_uncreative_writing/#filepos104950)
 * Wendy Hui Kyong Chun, 2011, Programmed Visons, Computers that Roar (p55-58).
 * Anthoney Dunne, [Hertzian Tales, Chapter 5, Real Fiction](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwi5osvi_6XOAhXIGj4KHSR2BxMQFggcMAA&url=http%3A%2F%2Fbscw.wineme.fb5.uni-siegen.de%2Fpub%2Fbscw.cgi%2Fd807744%2F__Hertzian_Tales__Electronic_Products__Aesthetic_Experience__and_Critical_Design.pdf&usg=AFQjCNE2DwbM873vh22tPfgTUDLHNOj_lQ&sig2=fjvShJ9VxjVcZpOmKJRslg)
 * Lisa Gitelman Paper Knowledge, [Chapter 4, Near Print and Beyond Paper / Knowing by *.pdf, p111](https://www.dropbox.com/s/b4rcd6v9xheyj7a/lisa-gitelman-paper-knowledge-toward-a-media-history-of-documents.pdf?dl=0). Discussion of the PDF as format and form. 
