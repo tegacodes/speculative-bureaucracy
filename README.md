@@ -99,7 +99,7 @@ How do governments and institutions describe their goals and administer them? An
 * Douglas Crockford, [Javascript the Good Parts.](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf) This text is for more advanced learners.
 
 
-###Chrome Extensions*
+***Chrome Extensions***
 
 * For some more examples see [Lauren Mccarthy's repo here.](https://github.com/lmccart/SocialHacking/tree/master/ChromeExtensionExamples)
 * To autogenerate a browser extension template see [EXTENSIONIZER!!](http://extensionizr.com/!#{"modules":["hidden-mode","with-bg","with-persistent-bg","no-options","no-override"],"boolean_perms":[],"match_ptrns":[]})
