@@ -1,8 +1,9 @@
 #Chrome Extension Example Notes
 
 ####Types:
-Page action: sometimes visible, only runs on some pages: [https://developer.chrome.com/extensions/pageAction](https://developer.chrome.com/extensions/pageAction)
-Browser action: always visible, runs for all pages: [https://developer.chrome.com/extensions/browserAction](https://developer.chrome.com/extensions/browserAction)
+Page action: sometimes visible, only runs on some pages, but it intervenes in page content:     [https://developer.chrome.com/extensions/pageAction](https://developer.chrome.com/extensions/pageAction)
+Browser action: always visible, runs for all pages as it addresses the browser, so it can intervene in stuff the browser does - buttons, popups, bookmarks etc:   
+[https://developer.chrome.com/extensions/browserAction](https://developer.chrome.com/extensions/browserAction)
 
 ####3 types of scripts
 * Extension environment scripts. This is html that runs in a pop up box when clicking on icon. This comes from a separate html doc. (popup.html in basic example). Can run p5js sketches here.
