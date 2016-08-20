@@ -8,11 +8,9 @@ For all manifest file fields for Extensions, see the manifest documentation page
 
 **{**  
   **"manifest_version": 2,** //need to use version 2  
-
  ** "name": "Getting started example",**  
  ** "description": "This extension shows a Google Image search result for the current page",**  
  ** "version": "1.0",**  
-
   **"browser_action": { **   
     **"default_icon": "bee.png",**    //set your icon  
     **"default_popup": "popup.html"** //tells google chrome that when you click on icon, what is the default   
