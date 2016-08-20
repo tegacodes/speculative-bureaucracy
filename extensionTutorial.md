@@ -1,8 +1,8 @@
 #Chrome Extension Example Notes
 
 ####Types:
-Page action: sometimes visible, only runs on some pages, but it intervenes in page content:     [https://developer.chrome.com/extensions/pageAction](https://developer.chrome.com/extensions/pageAction)
-Browser action: always visible, runs for all pages as it addresses the browser, so it can intervene in stuff the browser does - buttons, popups, bookmarks etc:   
+* Page action: sometimes visible, only runs on some pages, but it intervenes in page content:     [https://developer.chrome.com/extensions/pageAction](https://developer.chrome.com/extensions/pageAction)  
+* Browser action: always visible, runs for all pages as it addresses the browser, so it can intervene in stuff the browser does - buttons, popups, bookmarks etc:   
 [https://developer.chrome.com/extensions/browserAction](https://developer.chrome.com/extensions/browserAction)
 
 ####3 types of scripts
