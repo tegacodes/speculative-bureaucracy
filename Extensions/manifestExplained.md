@@ -6,10 +6,10 @@ For all manifest file fields for Extensions, see the manifest documentation page
 * You cannot include comments as I have here.
 
 
-*{*
-  *"manifest_version": 2,* //need to use version 2
+**{**
+  **"manifest_version": 2,** //need to use version 2
 
- * "name": "Getting started example",*  
+ ** "name": "Getting started example",**  
   "description": "This extension shows a Google Image search result for the current page",
   "version": "1.0",
 
